@@ -1,0 +1,8409 @@
+{
+  "metadata": {
+    "strategy": "Martingale",
+    "wheel": "EuropeanRoulette",
+    "params": {
+      "initial_bet_amount": 5,
+      "bet_type": "red_black",
+      "selection": "red",
+      "n_spins": 1000
+    }
+  },
+  "aggregated": {
+    "avg_bankroll_roi": -0.1881,
+    "avg_turnover_roi": -0.028221,
+    "ruin_prob": 0.592,
+    "win_rate": 0.407,
+    "avg_profit_loss": -188.1,
+    "std_profit": 979.84
+  },
+  "sessions": [
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 384,
+      "total_wagered": 5470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 474,
+      "total_wagered": 11020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 408,
+      "total_wagered": 9520.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1630,
+      "spins": 264,
+      "total_wagered": 6340.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 410,
+      "total_wagered": 8700.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 42,
+      "total_wagered": 1460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1485,
+      "spins": 230,
+      "total_wagered": 4480.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1370,
+      "spins": 161,
+      "total_wagered": 4030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1115,
+      "spins": 55,
+      "total_wagered": 1770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1115,
+      "spins": 57,
+      "total_wagered": 2500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1535,
+      "spins": 240,
+      "total_wagered": 7160.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 520,
+      "total_wagered": 11500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 31,
+      "total_wagered": 1620.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1170,
+      "spins": 66,
+      "total_wagered": 2280.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1090,
+      "spins": 40,
+      "total_wagered": 1440.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1525,
+      "spins": 204,
+      "total_wagered": 4270.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 17,
+      "total_wagered": 1110.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1525,
+      "spins": 286,
+      "total_wagered": 7120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 420,
+      "total_wagered": 10770.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 405,
+      "total_wagered": 7830.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1795,
+      "spins": 336,
+      "total_wagered": 6780.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 620,
+      "total_wagered": 11900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1455,
+      "spins": 189,
+      "total_wagered": 6600.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 384,
+      "total_wagered": 8430.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1405,
+      "spins": 179,
+      "total_wagered": 4300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1165,
+      "spins": 63,
+      "total_wagered": 1830.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1030,
+      "spins": 23,
+      "total_wagered": 1320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1860,
+      "spins": 390,
+      "total_wagered": 10960.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1840,
+      "spins": 623,
+      "total_wagered": 16380.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1090,
+      "spins": 38,
+      "total_wagered": 1400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1570,
+      "spins": 444,
+      "total_wagered": 11530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1870,
+      "spins": 339,
+      "total_wagered": 7130.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1085,
+      "spins": 40,
+      "total_wagered": 1550.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 379,
+      "total_wagered": 6670.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 412,
+      "total_wagered": 5860.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1575,
+      "spins": 232,
+      "total_wagered": 5100.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1765,
+      "spins": 383,
+      "total_wagered": 7740.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1275,
+      "spins": 108,
+      "total_wagered": 2610.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1715,
+      "spins": 597,
+      "total_wagered": 11760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1175,
+      "spins": 75,
+      "total_wagered": 2220.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 375,
+      "total_wagered": 7130.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1990,
+      "spins": 362,
+      "total_wagered": 7570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1090,
+      "spins": 41,
+      "total_wagered": 1410.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1455,
+      "spins": 181,
+      "total_wagered": 4340.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1105,
+      "spins": 55,
+      "total_wagered": 2330.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 388,
+      "total_wagered": 5970.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 398,
+      "total_wagered": 6330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1260,
+      "spins": 136,
+      "total_wagered": 4880.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 401,
+      "total_wagered": 7800.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 388,
+      "total_wagered": 7310.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 374,
+      "total_wagered": 6260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1960,
+      "spins": 405,
+      "total_wagered": 8850.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 95,
+      "total_wagered": 3840.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 373,
+      "total_wagered": 5920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1280,
+      "spins": 130,
+      "total_wagered": 4140.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1175,
+      "spins": 76,
+      "total_wagered": 2170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1415,
+      "spins": 146,
+      "total_wagered": 2900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 419,
+      "total_wagered": 7510.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 70,
+      "total_wagered": 3230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1135,
+      "spins": 70,
+      "total_wagered": 2830.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 369,
+      "total_wagered": 5530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1465,
+      "spins": 543,
+      "total_wagered": 10590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 31,
+      "total_wagered": 1390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1130,
+      "spins": 49,
+      "total_wagered": 1610.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1020,
+      "spins": 13,
+      "total_wagered": 1100.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 6350.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 17,
+      "total_wagered": 1110.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 444,
+      "total_wagered": 8450.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 373,
+      "total_wagered": 7460.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 398,
+      "total_wagered": 6480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 406,
+      "total_wagered": 6710.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 414,
+      "total_wagered": 7770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1305,
+      "spins": 111,
+      "total_wagered": 2290.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1415,
+      "spins": 551,
+      "total_wagered": 11100.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 425,
+      "total_wagered": 7860.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 506,
+      "total_wagered": 11990.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1025,
+      "spins": 121,
+      "total_wagered": 4160.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 59,
+      "total_wagered": 2380.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1980,
+      "spins": 391,
+      "total_wagered": 7440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 410,
+      "total_wagered": 6160.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1595,
+      "spins": 252,
+      "total_wagered": 5340.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1385,
+      "spins": 170,
+      "total_wagered": 4760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1330,
+      "spins": 148,
+      "total_wagered": 3620.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1390,
+      "spins": 169,
+      "total_wagered": 3680.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 429,
+      "total_wagered": 7200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1425,
+      "spins": 175,
+      "total_wagered": 4020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 405,
+      "total_wagered": 7890.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1940,
+      "spins": 359,
+      "total_wagered": 8020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 398,
+      "total_wagered": 6770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1840,
+      "spins": 533,
+      "total_wagered": 14420.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 397,
+      "total_wagered": 10340.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1110,
+      "spins": 140,
+      "total_wagered": 4520.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1280,
+      "spins": 918,
+      "total_wagered": 18460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1900,
+      "spins": 385,
+      "total_wagered": 9230.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1280,
+      "spins": 971,
+      "total_wagered": 21950.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 422,
+      "total_wagered": 8800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 79,
+      "total_wagered": 2990.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1515,
+      "spins": 295,
+      "total_wagered": 7650.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1420,
+      "spins": 187,
+      "total_wagered": 4820.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 384,
+      "total_wagered": 6900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1885,
+      "spins": 809,
+      "total_wagered": 19170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1915,
+      "spins": 351,
+      "total_wagered": 6990.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1965,
+      "spins": 390,
+      "total_wagered": 8530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1490,
+      "spins": 370,
+      "total_wagered": 10000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1230,
+      "spins": 95,
+      "total_wagered": 3110.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1295,
+      "spins": 137,
+      "total_wagered": 3900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 401,
+      "total_wagered": 7070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 516,
+      "total_wagered": 10350.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 991,
+      "total_wagered": 19900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1645,
+      "spins": 309,
+      "total_wagered": 7620.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1840,
+      "spins": 341,
+      "total_wagered": 7930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1165,
+      "spins": 72,
+      "total_wagered": 1910.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1705,
+      "spins": 545,
+      "total_wagered": 11920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1775,
+      "spins": 351,
+      "total_wagered": 9560.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 715,
+      "total_wagered": 15290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 393,
+      "total_wagered": 7150.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1380,
+      "spins": 942,
+      "total_wagered": 14920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 412,
+      "total_wagered": 7860.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 513,
+      "total_wagered": 10940.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 152,
+      "total_wagered": 4530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1125,
+      "spins": 64,
+      "total_wagered": 1980.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1310,
+      "spins": 156,
+      "total_wagered": 3250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1475,
+      "spins": 202,
+      "total_wagered": 4170.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 416,
+      "total_wagered": 8550.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 413,
+      "total_wagered": 10080.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1150,
+      "spins": 103,
+      "total_wagered": 3650.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 385,
+      "total_wagered": 5060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1110,
+      "spins": 54,
+      "total_wagered": 2330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1545,
+      "spins": 232,
+      "total_wagered": 5380.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1175,
+      "spins": 112,
+      "total_wagered": 4170.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 385,
+      "total_wagered": 8060.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 409,
+      "total_wagered": 7200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1710,
+      "spins": 296,
+      "total_wagered": 7840.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 34,
+      "total_wagered": 1410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 393,
+      "total_wagered": 7220.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1380,
+      "spins": 406,
+      "total_wagered": 8290.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1415,
+      "spins": 534,
+      "total_wagered": 12550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1640,
+      "spins": 268,
+      "total_wagered": 6260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1705,
+      "spins": 293,
+      "total_wagered": 5950.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 388,
+      "total_wagered": 5150.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 419,
+      "total_wagered": 9630.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 7260.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 410,
+      "total_wagered": 7630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1030,
+      "spins": 15,
+      "total_wagered": 1080.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 390,
+      "total_wagered": 5810.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 406,
+      "total_wagered": 8900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 377,
+      "total_wagered": 6040.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 476,
+      "total_wagered": 8690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1055,
+      "spins": 29,
+      "total_wagered": 1380.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1375,
+      "spins": 179,
+      "total_wagered": 5720.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 372,
+      "total_wagered": 7350.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 426,
+      "total_wagered": 8890.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 417,
+      "total_wagered": 6950.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 422,
+      "total_wagered": 6250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1225,
+      "spins": 92,
+      "total_wagered": 2290.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1275,
+      "spins": 135,
+      "total_wagered": 4760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1215,
+      "spins": 98,
+      "total_wagered": 3410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 407,
+      "total_wagered": 8190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1445,
+      "spins": 281,
+      "total_wagered": 6280.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 425,
+      "total_wagered": 9720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1295,
+      "spins": 145,
+      "total_wagered": 3290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 448,
+      "total_wagered": 9400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1490,
+      "spins": 230,
+      "total_wagered": 4980.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1025,
+      "spins": 216,
+      "total_wagered": 5660.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1970,
+      "spins": 381,
+      "total_wagered": 7230.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 450,
+      "total_wagered": 9250.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 412,
+      "total_wagered": 7430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 427,
+      "total_wagered": 9510.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 819,
+      "total_wagered": 16390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1255,
+      "spins": 113,
+      "total_wagered": 4150.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1460,
+      "spins": 191,
+      "total_wagered": 4940.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1705,
+      "spins": 295,
+      "total_wagered": 7650.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 383,
+      "total_wagered": 6570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1465,
+      "spins": 277,
+      "total_wagered": 6510.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1355,
+      "spins": 168,
+      "total_wagered": 4980.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 410,
+      "total_wagered": 7070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 401,
+      "total_wagered": 5750.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 393,
+      "total_wagered": 5190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1505,
+      "spins": 215,
+      "total_wagered": 5270.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 410,
+      "total_wagered": 7660.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1440,
+      "spins": 225,
+      "total_wagered": 6110.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1995,
+      "spins": 597,
+      "total_wagered": 11560.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 395,
+      "total_wagered": 6050.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1390,
+      "spins": 161,
+      "total_wagered": 4440.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1960,
+      "spins": 571,
+      "total_wagered": 15000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1525,
+      "spins": 220,
+      "total_wagered": 5140.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1635,
+      "spins": 335,
+      "total_wagered": 8300.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 390,
+      "total_wagered": 7660.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 433,
+      "total_wagered": 7620.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1095,
+      "spins": 39,
+      "total_wagered": 1390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 226,
+      "total_wagered": 5640.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 77,
+      "total_wagered": 3300.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 383,
+      "total_wagered": 8010.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 412,
+      "total_wagered": 7950.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1165,
+      "spins": 126,
+      "total_wagered": 3780.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1595,
+      "spins": 244,
+      "total_wagered": 5770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1600,
+      "spins": 415,
+      "total_wagered": 10430.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 113,
+      "total_wagered": 3870.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 412,
+      "total_wagered": 8280.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 20,
+      "total_wagered": 1180.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 393,
+      "total_wagered": 6970.0
+    },
+    {
+      "final_br": 1685,
+      "ruined": false,
+      "hit_target": false,
+      "drawdown": 1310,
+      "spins": 1000,
+      "total_wagered": 20975.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 44,
+      "total_wagered": 1430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 382,
+      "total_wagered": 6190.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 405,
+      "total_wagered": 6540.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 29,
+      "total_wagered": 1390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1255,
+      "spins": 210,
+      "total_wagered": 6600.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 41,
+      "total_wagered": 1500.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 389,
+      "total_wagered": 6400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1560,
+      "spins": 220,
+      "total_wagered": 4520.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1305,
+      "spins": 183,
+      "total_wagered": 5310.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 30,
+      "total_wagered": 1260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 26,
+      "total_wagered": 1840.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 363,
+      "total_wagered": 4680.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 382,
+      "total_wagered": 6560.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1905,
+      "spins": 357,
+      "total_wagered": 10930.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 375,
+      "total_wagered": 6560.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 418,
+      "total_wagered": 9400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1320,
+      "spins": 131,
+      "total_wagered": 3170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 48,
+      "total_wagered": 1720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1220,
+      "spins": 224,
+      "total_wagered": 7200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 43,
+      "total_wagered": 1680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1825,
+      "spins": 349,
+      "total_wagered": 9580.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1990,
+      "spins": 391,
+      "total_wagered": 11810.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 707,
+      "total_wagered": 15680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1260,
+      "spins": 92,
+      "total_wagered": 2170.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 433,
+      "total_wagered": 9480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 802,
+      "total_wagered": 14120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 5550.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 6560.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1455,
+      "spins": 223,
+      "total_wagered": 5510.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 75,
+      "spins": 333,
+      "total_wagered": 3120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1075,
+      "spins": 38,
+      "total_wagered": 1920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 408,
+      "total_wagered": 6840.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 475,
+      "total_wagered": 11050.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 21,
+      "total_wagered": 1190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 28,
+      "total_wagered": 1270.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1410,
+      "spins": 282,
+      "total_wagered": 8430.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1195,
+      "spins": 82,
+      "total_wagered": 2230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1410,
+      "spins": 162,
+      "total_wagered": 4240.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1350,
+      "spins": 233,
+      "total_wagered": 6280.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 639,
+      "total_wagered": 14350.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 394,
+      "total_wagered": 7500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1330,
+      "spins": 186,
+      "total_wagered": 5110.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1610,
+      "spins": 251,
+      "total_wagered": 5600.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1470,
+      "spins": 204,
+      "total_wagered": 5850.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1285,
+      "spins": 131,
+      "total_wagered": 3180.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 171,
+      "total_wagered": 4320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 27,
+      "total_wagered": 1250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1220,
+      "spins": 132,
+      "total_wagered": 4020.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1540,
+      "spins": 360,
+      "total_wagered": 8310.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1250,
+      "spins": 101,
+      "total_wagered": 2870.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1820,
+      "spins": 396,
+      "total_wagered": 9960.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1525,
+      "spins": 190,
+      "total_wagered": 4700.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 24,
+      "total_wagered": 1480.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1845,
+      "spins": 372,
+      "total_wagered": 9390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1055,
+      "spins": 37,
+      "total_wagered": 2050.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 423,
+      "total_wagered": 9000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1085,
+      "spins": 43,
+      "total_wagered": 1560.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1905,
+      "spins": 399,
+      "total_wagered": 9130.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 438,
+      "total_wagered": 8320.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 403,
+      "total_wagered": 8420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1150,
+      "spins": 61,
+      "total_wagered": 1840.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 419,
+      "total_wagered": 8540.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 805,
+      "total_wagered": 16370.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1655,
+      "spins": 268,
+      "total_wagered": 6220.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 398,
+      "total_wagered": 6640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 372,
+      "total_wagered": 5120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1045,
+      "spins": 20,
+      "total_wagered": 1170.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 414,
+      "total_wagered": 8830.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 24,
+      "total_wagered": 1220.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 398,
+      "total_wagered": 8460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1235,
+      "spins": 89,
+      "total_wagered": 2270.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1335,
+      "spins": 343,
+      "total_wagered": 7300.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 403,
+      "total_wagered": 7320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1245,
+      "spins": 107,
+      "total_wagered": 3100.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1700,
+      "spins": 292,
+      "total_wagered": 8070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 398,
+      "total_wagered": 7630.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 512,
+      "total_wagered": 10740.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 91,
+      "total_wagered": 3080.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 79,
+      "total_wagered": 2550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1175,
+      "spins": 72,
+      "total_wagered": 1900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 763,
+      "total_wagered": 15620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 519,
+      "total_wagered": 11430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 845,
+      "total_wagered": 17730.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1905,
+      "spins": 441,
+      "total_wagered": 8490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 412,
+      "total_wagered": 8250.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 423,
+      "total_wagered": 7400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1655,
+      "spins": 281,
+      "total_wagered": 6130.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1750,
+      "spins": 331,
+      "total_wagered": 8790.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1420,
+      "spins": 381,
+      "total_wagered": 8460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1700,
+      "spins": 291,
+      "total_wagered": 6130.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 21,
+      "total_wagered": 1170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 77,
+      "total_wagered": 2730.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 30,
+      "total_wagered": 1360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 145,
+      "total_wagered": 4630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1130,
+      "spins": 53,
+      "total_wagered": 1590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1110,
+      "spins": 42,
+      "total_wagered": 1500.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 374,
+      "total_wagered": 7240.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 378,
+      "total_wagered": 7300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1645,
+      "spins": 608,
+      "total_wagered": 15850.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1780,
+      "spins": 454,
+      "total_wagered": 11020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 413,
+      "total_wagered": 7200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 205,
+      "total_wagered": 5720.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 373,
+      "total_wagered": 5440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 409,
+      "total_wagered": 6020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 380,
+      "total_wagered": 7450.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 760,
+      "total_wagered": 17400.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 394,
+      "total_wagered": 7920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1180,
+      "spins": 94,
+      "total_wagered": 2520.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1160,
+      "spins": 59,
+      "total_wagered": 1630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1215,
+      "spins": 89,
+      "total_wagered": 2270.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 428,
+      "total_wagered": 8680.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 411,
+      "total_wagered": 6750.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1595,
+      "spins": 398,
+      "total_wagered": 10190.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 7070.0
+    },
+    {
+      "final_br": 555,
+      "ruined": false,
+      "hit_target": false,
+      "drawdown": 1325,
+      "spins": 1000,
+      "total_wagered": 20165.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1625,
+      "spins": 838,
+      "total_wagered": 16150.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 489,
+      "total_wagered": 9890.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1915,
+      "spins": 413,
+      "total_wagered": 11210.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 421,
+      "total_wagered": 6620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 395,
+      "total_wagered": 7100.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1845,
+      "spins": 379,
+      "total_wagered": 8470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 411,
+      "total_wagered": 7240.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1755,
+      "spins": 505,
+      "total_wagered": 14250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1640,
+      "spins": 376,
+      "total_wagered": 9920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1190,
+      "spins": 87,
+      "total_wagered": 2150.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 67,
+      "total_wagered": 2740.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 414,
+      "total_wagered": 9640.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1750,
+      "spins": 636,
+      "total_wagered": 14230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1540,
+      "spins": 269,
+      "total_wagered": 7000.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 389,
+      "total_wagered": 6090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 33,
+      "total_wagered": 1330.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 391,
+      "total_wagered": 6480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 363,
+      "total_wagered": 5400.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 377,
+      "total_wagered": 5430.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1505,
+      "spins": 209,
+      "total_wagered": 5180.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 622,
+      "total_wagered": 11640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 465,
+      "total_wagered": 10730.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1075,
+      "spins": 31,
+      "total_wagered": 1300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1945,
+      "spins": 421,
+      "total_wagered": 11670.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1425,
+      "spins": 174,
+      "total_wagered": 3410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 389,
+      "total_wagered": 6570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1140,
+      "spins": 73,
+      "total_wagered": 2470.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1145,
+      "spins": 66,
+      "total_wagered": 2320.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 426,
+      "total_wagered": 8870.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1365,
+      "spins": 160,
+      "total_wagered": 4630.0
+    },
+    {
+      "final_br": 1550,
+      "ruined": false,
+      "hit_target": false,
+      "drawdown": 1275,
+      "spins": 1000,
+      "total_wagered": 20560.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 444,
+      "total_wagered": 8360.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 399,
+      "total_wagered": 7050.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 447,
+      "total_wagered": 8420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1545,
+      "spins": 280,
+      "total_wagered": 6330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1030,
+      "spins": 23,
+      "total_wagered": 1420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1015,
+      "spins": 10,
+      "total_wagered": 1030.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 415,
+      "total_wagered": 7900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 387,
+      "total_wagered": 5960.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 389,
+      "total_wagered": 6700.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 420,
+      "total_wagered": 8010.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 429,
+      "total_wagered": 6450.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1420,
+      "spins": 280,
+      "total_wagered": 6550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 29,
+      "total_wagered": 1330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1785,
+      "spins": 305,
+      "total_wagered": 7430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 405,
+      "total_wagered": 6800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1725,
+      "spins": 908,
+      "total_wagered": 19490.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1020,
+      "spins": 13,
+      "total_wagered": 1070.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1690,
+      "spins": 332,
+      "total_wagered": 8120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1405,
+      "spins": 323,
+      "total_wagered": 6280.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 415,
+      "total_wagered": 6890.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1935,
+      "spins": 454,
+      "total_wagered": 12410.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1995,
+      "spins": 505,
+      "total_wagered": 11260.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 396,
+      "total_wagered": 8920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 387,
+      "total_wagered": 7450.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 389,
+      "total_wagered": 6240.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1270,
+      "spins": 124,
+      "total_wagered": 3650.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1780,
+      "spins": 310,
+      "total_wagered": 5750.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1510,
+      "spins": 370,
+      "total_wagered": 10320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1375,
+      "spins": 153,
+      "total_wagered": 3300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1370,
+      "spins": 165,
+      "total_wagered": 3400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1165,
+      "spins": 107,
+      "total_wagered": 3650.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 415,
+      "total_wagered": 7060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1135,
+      "spins": 61,
+      "total_wagered": 2210.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 74,
+      "total_wagered": 3280.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1020,
+      "spins": 470,
+      "total_wagered": 10630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 77,
+      "total_wagered": 2540.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1490,
+      "spins": 215,
+      "total_wagered": 5410.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1780,
+      "spins": 315,
+      "total_wagered": 6230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 49,
+      "total_wagered": 1820.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 365,
+      "total_wagered": 5610.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 416,
+      "total_wagered": 10800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1715,
+      "spins": 329,
+      "total_wagered": 8340.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 401,
+      "total_wagered": 8370.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1270,
+      "spins": 110,
+      "total_wagered": 2890.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 415,
+      "total_wagered": 7440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 425,
+      "total_wagered": 7450.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1460,
+      "spins": 488,
+      "total_wagered": 12260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1025,
+      "spins": 15,
+      "total_wagered": 1120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1555,
+      "spins": 242,
+      "total_wagered": 6210.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1650,
+      "spins": 245,
+      "total_wagered": 6680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1610,
+      "spins": 238,
+      "total_wagered": 5680.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 392,
+      "total_wagered": 8530.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 388,
+      "total_wagered": 6090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1080,
+      "spins": 44,
+      "total_wagered": 1560.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1550,
+      "spins": 241,
+      "total_wagered": 6930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1335,
+      "spins": 221,
+      "total_wagered": 4310.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1145,
+      "spins": 62,
+      "total_wagered": 1970.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1150,
+      "spins": 76,
+      "total_wagered": 2630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1985,
+      "spins": 460,
+      "total_wagered": 10690.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 386,
+      "total_wagered": 6190.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 413,
+      "total_wagered": 8360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1330,
+      "spins": 146,
+      "total_wagered": 3400.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 398,
+      "total_wagered": 6810.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1420,
+      "spins": 206,
+      "total_wagered": 4070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 439,
+      "total_wagered": 8800.0
+    },
+    {
+      "final_br": 1335,
+      "ruined": false,
+      "hit_target": false,
+      "drawdown": 1275,
+      "spins": 1000,
+      "total_wagered": 20565.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1265,
+      "spins": 98,
+      "total_wagered": 2690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1290,
+      "spins": 120,
+      "total_wagered": 3130.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1630,
+      "spins": 355,
+      "total_wagered": 9260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1180,
+      "spins": 70,
+      "total_wagered": 1710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1055,
+      "spins": 103,
+      "total_wagered": 3540.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1520,
+      "spins": 530,
+      "total_wagered": 13250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1580,
+      "spins": 238,
+      "total_wagered": 5860.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1280,
+      "spins": 123,
+      "total_wagered": 3720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1290,
+      "spins": 149,
+      "total_wagered": 4540.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1315,
+      "spins": 125,
+      "total_wagered": 2800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1450,
+      "spins": 196,
+      "total_wagered": 4190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1685,
+      "spins": 297,
+      "total_wagered": 9450.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 377,
+      "total_wagered": 6600.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1880,
+      "spins": 359,
+      "total_wagered": 6490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 418,
+      "total_wagered": 7800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1075,
+      "spins": 38,
+      "total_wagered": 1410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 419,
+      "total_wagered": 7760.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 368,
+      "total_wagered": 6690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1440,
+      "spins": 208,
+      "total_wagered": 6300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1205,
+      "spins": 86,
+      "total_wagered": 2220.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1615,
+      "spins": 217,
+      "total_wagered": 4140.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 24,
+      "total_wagered": 1200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1970,
+      "spins": 554,
+      "total_wagered": 13410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 722,
+      "total_wagered": 13610.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 19,
+      "total_wagered": 1120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 363,
+      "total_wagered": 6970.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 394,
+      "total_wagered": 5250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1205,
+      "spins": 155,
+      "total_wagered": 4430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 655,
+      "total_wagered": 12820.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1335,
+      "spins": 149,
+      "total_wagered": 2900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1385,
+      "spins": 169,
+      "total_wagered": 5060.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 416,
+      "total_wagered": 7330.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 387,
+      "total_wagered": 9320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1080,
+      "spins": 47,
+      "total_wagered": 2260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 28,
+      "total_wagered": 1470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 720,
+      "spins": 759,
+      "total_wagered": 14040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1495,
+      "spins": 213,
+      "total_wagered": 4960.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 423,
+      "total_wagered": 6680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1755,
+      "spins": 314,
+      "total_wagered": 7300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1470,
+      "spins": 481,
+      "total_wagered": 11170.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 7790.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1875,
+      "spins": 351,
+      "total_wagered": 7940.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1200,
+      "spins": 303,
+      "total_wagered": 7770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1495,
+      "spins": 240,
+      "total_wagered": 5510.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1015,
+      "spins": 11,
+      "total_wagered": 1050.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 445,
+      "total_wagered": 11410.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1815,
+      "spins": 373,
+      "total_wagered": 9000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1595,
+      "spins": 399,
+      "total_wagered": 8940.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1055,
+      "spins": 24,
+      "total_wagered": 1170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 285,
+      "total_wagered": 5900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 446,
+      "total_wagered": 10290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 407,
+      "total_wagered": 8150.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 393,
+      "total_wagered": 7290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 815,
+      "total_wagered": 18100.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1300,
+      "spins": 980,
+      "total_wagered": 21810.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 699,
+      "total_wagered": 14380.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1450,
+      "spins": 190,
+      "total_wagered": 5710.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 470,
+      "total_wagered": 9210.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 405,
+      "total_wagered": 6920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 368,
+      "total_wagered": 5080.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1075,
+      "spins": 107,
+      "total_wagered": 3300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1220,
+      "spins": 90,
+      "total_wagered": 2210.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 449,
+      "total_wagered": 9640.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1915,
+      "spins": 359,
+      "total_wagered": 7150.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1025,
+      "spins": 129,
+      "total_wagered": 4580.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1055,
+      "spins": 30,
+      "total_wagered": 1420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1790,
+      "spins": 338,
+      "total_wagered": 8590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1410,
+      "spins": 146,
+      "total_wagered": 2930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1240,
+      "spins": 127,
+      "total_wagered": 4200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1700,
+      "spins": 311,
+      "total_wagered": 8270.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 385,
+      "total_wagered": 4950.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 27,
+      "total_wagered": 1390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1280,
+      "spins": 237,
+      "total_wagered": 6040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1245,
+      "spins": 107,
+      "total_wagered": 2760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1210,
+      "spins": 179,
+      "total_wagered": 4630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1095,
+      "spins": 47,
+      "total_wagered": 1790.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 932,
+      "total_wagered": 18110.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 455,
+      "total_wagered": 10560.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 812,
+      "total_wagered": 15260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1925,
+      "spins": 408,
+      "total_wagered": 11120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 429,
+      "total_wagered": 9480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 403,
+      "total_wagered": 7500.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 403,
+      "total_wagered": 7460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1670,
+      "spins": 262,
+      "total_wagered": 5780.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 390,
+      "total_wagered": 6690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1555,
+      "spins": 226,
+      "total_wagered": 6110.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 396,
+      "total_wagered": 6590.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 393,
+      "total_wagered": 7560.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1245,
+      "spins": 98,
+      "total_wagered": 2090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1480,
+      "spins": 350,
+      "total_wagered": 7810.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1080,
+      "spins": 46,
+      "total_wagered": 2040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1170,
+      "spins": 84,
+      "total_wagered": 2930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1835,
+      "spins": 326,
+      "total_wagered": 8880.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 386,
+      "total_wagered": 6890.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1620,
+      "spins": 250,
+      "total_wagered": 4710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1550,
+      "spins": 269,
+      "total_wagered": 7030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1985,
+      "spins": 477,
+      "total_wagered": 11270.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 380,
+      "total_wagered": 5620.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1835,
+      "spins": 350,
+      "total_wagered": 9870.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 523,
+      "total_wagered": 10340.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 378,
+      "total_wagered": 5880.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 405,
+      "total_wagered": 6490.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1200,
+      "spins": 85,
+      "total_wagered": 2000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1165,
+      "spins": 77,
+      "total_wagered": 2410.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1170,
+      "spins": 152,
+      "total_wagered": 4360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1965,
+      "spins": 863,
+      "total_wagered": 19360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1175,
+      "spins": 78,
+      "total_wagered": 2240.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 424,
+      "total_wagered": 6960.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 391,
+      "total_wagered": 6920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1750,
+      "spins": 309,
+      "total_wagered": 6440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 780,
+      "total_wagered": 15470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 374,
+      "total_wagered": 5400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1635,
+      "spins": 258,
+      "total_wagered": 5850.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1230,
+      "spins": 104,
+      "total_wagered": 3440.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1455,
+      "spins": 536,
+      "total_wagered": 12760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1115,
+      "spins": 73,
+      "total_wagered": 3370.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1710,
+      "spins": 292,
+      "total_wagered": 7780.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1240,
+      "spins": 95,
+      "total_wagered": 2870.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 382,
+      "total_wagered": 5130.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 402,
+      "total_wagered": 9070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 378,
+      "total_wagered": 5590.0
+    },
+    {
+      "final_br": 1595,
+      "ruined": false,
+      "hit_target": false,
+      "drawdown": 1655,
+      "spins": 1000,
+      "total_wagered": 21625.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 399,
+      "total_wagered": 6770.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 417,
+      "total_wagered": 8030.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 551,
+      "total_wagered": 13050.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1095,
+      "spins": 35,
+      "total_wagered": 1350.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 630,
+      "spins": 495,
+      "total_wagered": 8210.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 310,
+      "spins": 408,
+      "total_wagered": 6480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 385,
+      "total_wagered": 5830.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 385,
+      "total_wagered": 6020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 444,
+      "total_wagered": 7120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1440,
+      "spins": 176,
+      "total_wagered": 5080.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 429,
+      "total_wagered": 7500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1700,
+      "spins": 383,
+      "total_wagered": 10470.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1885,
+      "spins": 508,
+      "total_wagered": 11920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1980,
+      "spins": 404,
+      "total_wagered": 10070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 404,
+      "total_wagered": 8500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1880,
+      "spins": 356,
+      "total_wagered": 7670.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1730,
+      "spins": 404,
+      "total_wagered": 10790.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 386,
+      "total_wagered": 6450.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1495,
+      "spins": 203,
+      "total_wagered": 4690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1920,
+      "spins": 384,
+      "total_wagered": 8180.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 393,
+      "total_wagered": 6240.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1180,
+      "spins": 199,
+      "total_wagered": 6360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1220,
+      "spins": 141,
+      "total_wagered": 3640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 388,
+      "total_wagered": 6680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1555,
+      "spins": 367,
+      "total_wagered": 9010.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 26,
+      "total_wagered": 1230.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 387,
+      "total_wagered": 7430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 388,
+      "total_wagered": 6010.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1255,
+      "spins": 87,
+      "total_wagered": 2060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1055,
+      "spins": 28,
+      "total_wagered": 1360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1790,
+      "spins": 310,
+      "total_wagered": 6280.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 403,
+      "total_wagered": 8030.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 378,
+      "total_wagered": 5880.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1120,
+      "spins": 65,
+      "total_wagered": 2580.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1720,
+      "spins": 720,
+      "total_wagered": 16490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 406,
+      "total_wagered": 7650.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1720,
+      "spins": 306,
+      "total_wagered": 7060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1800,
+      "spins": 449,
+      "total_wagered": 10960.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1025,
+      "spins": 108,
+      "total_wagered": 4230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 140,
+      "total_wagered": 4520.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 408,
+      "total_wagered": 7470.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1095,
+      "spins": 45,
+      "total_wagered": 1710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 43,
+      "total_wagered": 2130.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1290,
+      "spins": 123,
+      "total_wagered": 3310.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 496,
+      "total_wagered": 8930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1215,
+      "spins": 99,
+      "total_wagered": 3270.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 382,
+      "total_wagered": 5070.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1630,
+      "spins": 364,
+      "total_wagered": 7560.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1500,
+      "spins": 482,
+      "total_wagered": 10440.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1490,
+      "spins": 510,
+      "total_wagered": 9750.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 403,
+      "total_wagered": 7050.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 421,
+      "total_wagered": 8900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 420,
+      "total_wagered": 6690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 405,
+      "total_wagered": 7260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1225,
+      "spins": 108,
+      "total_wagered": 3220.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 407,
+      "total_wagered": 7970.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 23,
+      "total_wagered": 1180.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 357,
+      "total_wagered": 4600.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 517,
+      "total_wagered": 11480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 379,
+      "total_wagered": 6570.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 843,
+      "total_wagered": 17690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1675,
+      "spins": 755,
+      "total_wagered": 17200.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 628,
+      "total_wagered": 13610.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1615,
+      "spins": 246,
+      "total_wagered": 7000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1380,
+      "spins": 212,
+      "total_wagered": 6620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 439,
+      "total_wagered": 10600.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1335,
+      "spins": 155,
+      "total_wagered": 5890.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1940,
+      "spins": 375,
+      "total_wagered": 7780.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 405,
+      "total_wagered": 5950.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 436,
+      "total_wagered": 13200.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 436,
+      "total_wagered": 10490.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1510,
+      "spins": 279,
+      "total_wagered": 7340.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1045,
+      "spins": 27,
+      "total_wagered": 1580.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 55,
+      "total_wagered": 2910.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1410,
+      "spins": 286,
+      "total_wagered": 7290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 408,
+      "total_wagered": 8520.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1365,
+      "spins": 189,
+      "total_wagered": 5740.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1440,
+      "spins": 188,
+      "total_wagered": 5290.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 165,
+      "total_wagered": 4050.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 412,
+      "total_wagered": 10300.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1770,
+      "spins": 314,
+      "total_wagered": 6550.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 399,
+      "total_wagered": 7630.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 376,
+      "total_wagered": 7410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 422,
+      "total_wagered": 8550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1805,
+      "spins": 608,
+      "total_wagered": 17160.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1270,
+      "spins": 222,
+      "total_wagered": 5420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1465,
+      "spins": 210,
+      "total_wagered": 4910.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 413,
+      "total_wagered": 7920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 442,
+      "total_wagered": 8600.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 397,
+      "total_wagered": 6040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1170,
+      "spins": 65,
+      "total_wagered": 1930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1345,
+      "spins": 212,
+      "total_wagered": 6570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1210,
+      "spins": 84,
+      "total_wagered": 2530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1150,
+      "spins": 80,
+      "total_wagered": 3190.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 442,
+      "total_wagered": 10700.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 396,
+      "total_wagered": 6220.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 903,
+      "total_wagered": 20800.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 417,
+      "total_wagered": 8880.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 390,
+      "total_wagered": 6620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 439,
+      "total_wagered": 9970.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1920,
+      "spins": 363,
+      "total_wagered": 7360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1070,
+      "spins": 71,
+      "total_wagered": 3040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1025,
+      "spins": 14,
+      "total_wagered": 1070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 397,
+      "total_wagered": 7100.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 589,
+      "total_wagered": 9830.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 28,
+      "total_wagered": 1800.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 426,
+      "total_wagered": 10150.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1570,
+      "spins": 219,
+      "total_wagered": 6500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 26,
+      "total_wagered": 1870.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1885,
+      "spins": 331,
+      "total_wagered": 6040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 164,
+      "total_wagered": 3710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1485,
+      "spins": 211,
+      "total_wagered": 4720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1395,
+      "spins": 266,
+      "total_wagered": 6260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1245,
+      "spins": 127,
+      "total_wagered": 3900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1250,
+      "spins": 111,
+      "total_wagered": 2890.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1680,
+      "spins": 307,
+      "total_wagered": 7310.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 670,
+      "total_wagered": 14990.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 636,
+      "total_wagered": 11990.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 433,
+      "total_wagered": 9690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1130,
+      "spins": 92,
+      "total_wagered": 3340.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 73,
+      "total_wagered": 2360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1300,
+      "spins": 130,
+      "total_wagered": 2940.0
+    },
+    {
+      "final_br": 1180,
+      "ruined": false,
+      "hit_target": false,
+      "drawdown": 1275,
+      "spins": 1000,
+      "total_wagered": 20010.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 730,
+      "total_wagered": 13700.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1140,
+      "spins": 71,
+      "total_wagered": 3090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1595,
+      "spins": 251,
+      "total_wagered": 5900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1180,
+      "spins": 75,
+      "total_wagered": 2480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 407,
+      "total_wagered": 7470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 431,
+      "total_wagered": 11730.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 680,
+      "spins": 601,
+      "total_wagered": 12600.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1635,
+      "spins": 266,
+      "total_wagered": 5850.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 19,
+      "total_wagered": 1230.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 402,
+      "total_wagered": 7640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 6190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1610,
+      "spins": 223,
+      "total_wagered": 3810.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 48,
+      "total_wagered": 1600.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 415,
+      "total_wagered": 7490.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1315,
+      "spins": 154,
+      "total_wagered": 3200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1505,
+      "spins": 487,
+      "total_wagered": 11480.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 408,
+      "total_wagered": 6720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1915,
+      "spins": 383,
+      "total_wagered": 8420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 176,
+      "total_wagered": 4880.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1270,
+      "spins": 114,
+      "total_wagered": 2990.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 395,
+      "total_wagered": 6780.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 413,
+      "total_wagered": 8740.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1295,
+      "spins": 130,
+      "total_wagered": 3090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1610,
+      "spins": 244,
+      "total_wagered": 5460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1630,
+      "spins": 253,
+      "total_wagered": 6040.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 373,
+      "total_wagered": 5860.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1945,
+      "spins": 423,
+      "total_wagered": 12680.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 385,
+      "total_wagered": 5210.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1170,
+      "spins": 107,
+      "total_wagered": 3310.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1520,
+      "spins": 280,
+      "total_wagered": 7580.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1875,
+      "spins": 346,
+      "total_wagered": 7870.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1145,
+      "spins": 64,
+      "total_wagered": 2120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1870,
+      "spins": 333,
+      "total_wagered": 6350.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 69,
+      "total_wagered": 1720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1145,
+      "spins": 65,
+      "total_wagered": 2360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 73,
+      "total_wagered": 1920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 396,
+      "total_wagered": 7010.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 439,
+      "total_wagered": 10540.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1565,
+      "spins": 335,
+      "total_wagered": 7040.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 386,
+      "total_wagered": 6660.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 388,
+      "total_wagered": 5510.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1190,
+      "spins": 89,
+      "total_wagered": 2680.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 378,
+      "total_wagered": 5000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1765,
+      "spins": 321,
+      "total_wagered": 8460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 112,
+      "total_wagered": 3490.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1645,
+      "spins": 306,
+      "total_wagered": 9360.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1475,
+      "spins": 190,
+      "total_wagered": 4550.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 550,
+      "total_wagered": 10670.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1270,
+      "spins": 114,
+      "total_wagered": 3160.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 390,
+      "total_wagered": 6620.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1520,
+      "spins": 239,
+      "total_wagered": 7030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 31,
+      "total_wagered": 2120.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1930,
+      "spins": 797,
+      "total_wagered": 17610.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 386,
+      "total_wagered": 6720.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 402,
+      "total_wagered": 8000.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 413,
+      "total_wagered": 8370.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 379,
+      "total_wagered": 5590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1290,
+      "spins": 125,
+      "total_wagered": 3030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1585,
+      "spins": 242,
+      "total_wagered": 4980.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1565,
+      "spins": 242,
+      "total_wagered": 5080.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1345,
+      "spins": 315,
+      "total_wagered": 8790.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 28,
+      "total_wagered": 1350.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 396,
+      "total_wagered": 9220.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1160,
+      "spins": 67,
+      "total_wagered": 2590.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 386,
+      "total_wagered": 5030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1215,
+      "spins": 134,
+      "total_wagered": 3930.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1350,
+      "spins": 153,
+      "total_wagered": 4250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1020,
+      "spins": 110,
+      "total_wagered": 4590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1230,
+      "spins": 189,
+      "total_wagered": 5720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 23,
+      "total_wagered": 1210.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1955,
+      "spins": 379,
+      "total_wagered": 8200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 145,
+      "total_wagered": 2860.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1705,
+      "spins": 830,
+      "total_wagered": 18470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 424,
+      "total_wagered": 8710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1430,
+      "spins": 226,
+      "total_wagered": 5040.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 418,
+      "total_wagered": 8640.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1565,
+      "spins": 271,
+      "total_wagered": 8870.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1575,
+      "spins": 263,
+      "total_wagered": 7320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1565,
+      "spins": 221,
+      "total_wagered": 4790.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 386,
+      "total_wagered": 5840.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 21,
+      "total_wagered": 1160.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 381,
+      "total_wagered": 5420.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1665,
+      "spins": 610,
+      "total_wagered": 14830.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 410,
+      "total_wagered": 8080.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 398,
+      "total_wagered": 6450.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1825,
+      "spins": 342,
+      "total_wagered": 6520.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 398,
+      "total_wagered": 10430.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1600,
+      "spins": 246,
+      "total_wagered": 4740.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 417,
+      "total_wagered": 7940.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1140,
+      "spins": 67,
+      "total_wagered": 2090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1210,
+      "spins": 96,
+      "total_wagered": 2800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1570,
+      "spins": 245,
+      "total_wagered": 5070.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1440,
+      "spins": 328,
+      "total_wagered": 7330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1310,
+      "spins": 143,
+      "total_wagered": 3640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 391,
+      "total_wagered": 9310.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1535,
+      "spins": 791,
+      "total_wagered": 16020.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1900,
+      "spins": 370,
+      "total_wagered": 7260.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 412,
+      "total_wagered": 8550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1390,
+      "spins": 157,
+      "total_wagered": 4210.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 414,
+      "total_wagered": 9280.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1460,
+      "spins": 597,
+      "total_wagered": 14440.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1595,
+      "spins": 254,
+      "total_wagered": 5730.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1360,
+      "spins": 154,
+      "total_wagered": 4390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1580,
+      "spins": 219,
+      "total_wagered": 4160.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 814,
+      "total_wagered": 20280.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1235,
+      "spins": 103,
+      "total_wagered": 3120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1305,
+      "spins": 750,
+      "total_wagered": 16010.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 409,
+      "total_wagered": 6220.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1560,
+      "spins": 616,
+      "total_wagered": 14070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 403,
+      "total_wagered": 6690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 19,
+      "total_wagered": 1120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 390,
+      "total_wagered": 8840.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 394,
+      "total_wagered": 6500.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1350,
+      "spins": 135,
+      "total_wagered": 2850.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 406,
+      "total_wagered": 8170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1235,
+      "spins": 89,
+      "total_wagered": 2330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1230,
+      "spins": 101,
+      "total_wagered": 2730.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 463,
+      "total_wagered": 10460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1755,
+      "spins": 288,
+      "total_wagered": 5150.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 38,
+      "total_wagered": 1990.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1925,
+      "spins": 379,
+      "total_wagered": 9470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 393,
+      "total_wagered": 6570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1155,
+      "spins": 61,
+      "total_wagered": 1950.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1110,
+      "spins": 54,
+      "total_wagered": 2430.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1195,
+      "spins": 87,
+      "total_wagered": 2730.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 384,
+      "total_wagered": 6490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 434,
+      "total_wagered": 11420.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 401,
+      "total_wagered": 6820.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 443,
+      "total_wagered": 10680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1580,
+      "spins": 216,
+      "total_wagered": 4850.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 416,
+      "total_wagered": 7900.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1035,
+      "spins": 22,
+      "total_wagered": 1210.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 378,
+      "total_wagered": 6410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 394,
+      "total_wagered": 6490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 370,
+      "total_wagered": 6870.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 379,
+      "total_wagered": 5720.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1060,
+      "spins": 26,
+      "total_wagered": 1250.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 395,
+      "total_wagered": 7220.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1185,
+      "spins": 157,
+      "total_wagered": 3960.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 450,
+      "total_wagered": 7290.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1095,
+      "spins": 40,
+      "total_wagered": 1500.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 822,
+      "total_wagered": 14710.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 427,
+      "total_wagered": 9920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1110,
+      "spins": 118,
+      "total_wagered": 3550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1985,
+      "spins": 488,
+      "total_wagered": 11390.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 494,
+      "total_wagered": 9390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1520,
+      "spins": 215,
+      "total_wagered": 5950.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1855,
+      "spins": 346,
+      "total_wagered": 6900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 476,
+      "total_wagered": 10510.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1390,
+      "spins": 169,
+      "total_wagered": 4240.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1080,
+      "spins": 39,
+      "total_wagered": 1490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 392,
+      "total_wagered": 6400.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 409,
+      "total_wagered": 7750.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1155,
+      "spins": 72,
+      "total_wagered": 2080.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 424,
+      "total_wagered": 9670.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1210,
+      "spins": 93,
+      "total_wagered": 2690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1540,
+      "spins": 225,
+      "total_wagered": 6290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 415,
+      "total_wagered": 10190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1570,
+      "spins": 241,
+      "total_wagered": 5060.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 410,
+      "total_wagered": 7320.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 25,
+      "total_wagered": 1190.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1465,
+      "spins": 225,
+      "total_wagered": 5160.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 457,
+      "total_wagered": 10770.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 391,
+      "total_wagered": 6400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1290,
+      "spins": 191,
+      "total_wagered": 4550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1475,
+      "spins": 181,
+      "total_wagered": 3370.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1760,
+      "spins": 314,
+      "total_wagered": 6760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 37,
+      "total_wagered": 1490.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1495,
+      "spins": 258,
+      "total_wagered": 7010.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 646,
+      "total_wagered": 10410.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1820,
+      "spins": 318,
+      "total_wagered": 6310.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1340,
+      "spins": 143,
+      "total_wagered": 4330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1085,
+      "spins": 39,
+      "total_wagered": 1640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 75,
+      "spins": 386,
+      "total_wagered": 4970.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1690,
+      "spins": 312,
+      "total_wagered": 9600.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 386,
+      "total_wagered": 7140.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 407,
+      "total_wagered": 7440.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1190,
+      "spins": 128,
+      "total_wagered": 4690.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 394,
+      "total_wagered": 6710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1830,
+      "spins": 366,
+      "total_wagered": 8920.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1760,
+      "spins": 332,
+      "total_wagered": 8030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1045,
+      "spins": 115,
+      "total_wagered": 3310.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 377,
+      "total_wagered": 7290.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 402,
+      "total_wagered": 6130.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 742,
+      "total_wagered": 15710.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 735,
+      "spins": 591,
+      "total_wagered": 13250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1905,
+      "spins": 344,
+      "total_wagered": 6410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 381,
+      "total_wagered": 5470.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1315,
+      "spins": 355,
+      "total_wagered": 7400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1835,
+      "spins": 708,
+      "total_wagered": 17700.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 480,
+      "total_wagered": 10910.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 438,
+      "total_wagered": 7470.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 416,
+      "total_wagered": 8620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 392,
+      "total_wagered": 8500.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 429,
+      "total_wagered": 10790.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 20,
+      "total_wagered": 1160.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1810,
+      "spins": 318,
+      "total_wagered": 6370.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 396,
+      "total_wagered": 6090.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 424,
+      "total_wagered": 9160.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 491,
+      "total_wagered": 10850.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1245,
+      "spins": 98,
+      "total_wagered": 2270.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1015,
+      "spins": 10,
+      "total_wagered": 1030.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1150,
+      "spins": 105,
+      "total_wagered": 3260.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 171,
+      "total_wagered": 4250.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1040,
+      "spins": 114,
+      "total_wagered": 4060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1075,
+      "spins": 36,
+      "total_wagered": 1460.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1200,
+      "spins": 87,
+      "total_wagered": 2330.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 411,
+      "total_wagered": 8780.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1650,
+      "spins": 249,
+      "total_wagered": 4730.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1015,
+      "spins": 15,
+      "total_wagered": 1200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1065,
+      "spins": 224,
+      "total_wagered": 7590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1160,
+      "spins": 78,
+      "total_wagered": 3230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1890,
+      "spins": 358,
+      "total_wagered": 8810.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1915,
+      "spins": 658,
+      "total_wagered": 19180.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 395,
+      "total_wagered": 5750.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1010,
+      "spins": 20,
+      "total_wagered": 1810.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1560,
+      "spins": 213,
+      "total_wagered": 4410.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 420,
+      "total_wagered": 8830.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1985,
+      "spins": 424,
+      "total_wagered": 10440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 443,
+      "total_wagered": 8330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1135,
+      "spins": 48,
+      "total_wagered": 1570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1210,
+      "spins": 88,
+      "total_wagered": 2340.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 390,
+      "total_wagered": 6330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1385,
+      "spins": 304,
+      "total_wagered": 5490.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 393,
+      "total_wagered": 5530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1305,
+      "spins": 152,
+      "total_wagered": 3220.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 393,
+      "total_wagered": 6330.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 768,
+      "total_wagered": 14070.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 24,
+      "total_wagered": 1440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 385,
+      "total_wagered": 4910.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1965,
+      "spins": 386,
+      "total_wagered": 8050.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1100,
+      "spins": 45,
+      "total_wagered": 1710.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 395,
+      "total_wagered": 8020.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 400,
+      "total_wagered": 6960.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 660,
+      "total_wagered": 14810.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 415,
+      "total_wagered": 9450.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 379,
+      "total_wagered": 6590.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 420,
+      "total_wagered": 8440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 414,
+      "total_wagered": 9040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1155,
+      "spins": 66,
+      "total_wagered": 2060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1505,
+      "spins": 195,
+      "total_wagered": 3800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1415,
+      "spins": 267,
+      "total_wagered": 5020.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1790,
+      "spins": 346,
+      "total_wagered": 9660.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1680,
+      "spins": 431,
+      "total_wagered": 9330.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1235,
+      "spins": 96,
+      "total_wagered": 2930.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 420,
+      "total_wagered": 9620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 405,
+      "total_wagered": 9550.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 405,
+      "total_wagered": 7350.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1285,
+      "spins": 124,
+      "total_wagered": 2860.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1810,
+      "spins": 307,
+      "total_wagered": 5630.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1105,
+      "spins": 44,
+      "total_wagered": 1700.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 155,
+      "spins": 409,
+      "total_wagered": 5920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 790,
+      "spins": 665,
+      "total_wagered": 13020.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1245,
+      "spins": 108,
+      "total_wagered": 3310.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 425,
+      "total_wagered": 11920.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 394,
+      "total_wagered": 7090.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 406,
+      "total_wagered": 9690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1465,
+      "spins": 338,
+      "total_wagered": 8180.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1430,
+      "spins": 174,
+      "total_wagered": 3690.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 428,
+      "total_wagered": 7510.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 408,
+      "total_wagered": 7690.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 405,
+      "total_wagered": 8690.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1935,
+      "spins": 358,
+      "total_wagered": 7900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 403,
+      "total_wagered": 8620.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 409,
+      "total_wagered": 8590.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 422,
+      "total_wagered": 8740.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1310,
+      "spins": 127,
+      "total_wagered": 3110.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1945,
+      "spins": 358,
+      "total_wagered": 6140.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1665,
+      "spins": 286,
+      "total_wagered": 6520.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 428,
+      "total_wagered": 7080.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 399,
+      "total_wagered": 8900.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 1275,
+      "spins": 607,
+      "total_wagered": 13790.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 468,
+      "total_wagered": 7510.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 417,
+      "total_wagered": 7760.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1485,
+      "spins": 232,
+      "total_wagered": 5680.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1715,
+      "spins": 250,
+      "total_wagered": 4450.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1050,
+      "spins": 145,
+      "total_wagered": 4290.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1190,
+      "spins": 83,
+      "total_wagered": 2040.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1210,
+      "spins": 89,
+      "total_wagered": 2300.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 411,
+      "total_wagered": 8440.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 418,
+      "total_wagered": 9370.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1805,
+      "spins": 377,
+      "total_wagered": 9400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1400,
+      "spins": 387,
+      "total_wagered": 9270.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 412,
+      "total_wagered": 8120.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 419,
+      "total_wagered": 7710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1700,
+      "spins": 765,
+      "total_wagered": 19580.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1590,
+      "spins": 575,
+      "total_wagered": 12610.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 379,
+      "total_wagered": 6070.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 433,
+      "total_wagered": 8430.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 398,
+      "total_wagered": 8710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1850,
+      "spins": 348,
+      "total_wagered": 8800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1560,
+      "spins": 276,
+      "total_wagered": 7980.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 526,
+      "total_wagered": 13400.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1545,
+      "spins": 223,
+      "total_wagered": 6550.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1080,
+      "spins": 150,
+      "total_wagered": 4230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1295,
+      "spins": 137,
+      "total_wagered": 2670.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 418,
+      "total_wagered": 8530.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1775,
+      "spins": 305,
+      "total_wagered": 7840.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1525,
+      "spins": 314,
+      "total_wagered": 8390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1160,
+      "spins": 72,
+      "total_wagered": 2200.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1990,
+      "spins": 545,
+      "total_wagered": 13170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1480,
+      "spins": 358,
+      "total_wagered": 8570.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1075,
+      "spins": 40,
+      "total_wagered": 1940.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1660,
+      "spins": 258,
+      "total_wagered": 5640.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 388,
+      "total_wagered": 7610.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1480,
+      "spins": 188,
+      "total_wagered": 3770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1715,
+      "spins": 324,
+      "total_wagered": 8390.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1085,
+      "spins": 74,
+      "total_wagered": 2770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1960,
+      "spins": 469,
+      "total_wagered": 10110.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 402,
+      "total_wagered": 8590.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 389,
+      "total_wagered": 7360.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 436,
+      "total_wagered": 6230.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1305,
+      "spins": 145,
+      "total_wagered": 4640.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1140,
+      "spins": 67,
+      "total_wagered": 2420.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 392,
+      "total_wagered": 6240.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1315,
+      "spins": 130,
+      "total_wagered": 3060.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1390,
+      "spins": 145,
+      "total_wagered": 2940.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 418,
+      "total_wagered": 8770.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1340,
+      "spins": 134,
+      "total_wagered": 3170.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1000,
+      "spins": 7,
+      "total_wagered": 1000.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1225,
+      "spins": 104,
+      "total_wagered": 3190.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 315,
+      "spins": 421,
+      "total_wagered": 6710.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1130,
+      "spins": 56,
+      "total_wagered": 1800.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1130,
+      "spins": 55,
+      "total_wagered": 2210.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1295,
+      "spins": 132,
+      "total_wagered": 3380.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1660,
+      "spins": 289,
+      "total_wagered": 6590.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1020,
+      "spins": 46,
+      "total_wagered": 3030.0
+    },
+    {
+      "final_br": 2000,
+      "ruined": false,
+      "hit_target": true,
+      "drawdown": 635,
+      "spins": 397,
+      "total_wagered": 6540.0
+    },
+    {
+      "final_br": 0,
+      "ruined": true,
+      "hit_target": false,
+      "drawdown": 1105,
+      "spins": 52,
+      "total_wagered": 1620.0
+    }
+  ],
+  "first_session_history": [
+    1000,
+    1010,
+    1015,
+    1020,
+    1025,
+    1030,
+    1025,
+    1015,
+    1035,
+    1040,
+    1035,
+    1045,
+    1050,
+    1045,
+    1055,
+    1060,
+    1055,
+    1065,
+    1070,
+    1075,
+    1070,
+    1060,
+    1080,
+    1075,
+    1065,
+    1085,
+    1080,
+    1070,
+    1050,
+    1090,
+    1095,
+    1100,
+    1105,
+    1100,
+    1110,
+    1105,
+    1115,
+    1120,
+    1115,
+    1125,
+    1120,
+    1130,
+    1135,
+    1140,
+    1145,
+    1140,
+    1150,
+    1145,
+    1155,
+    1160,
+    1155,
+    1145,
+    1125,
+    1165,
+    1170,
+    1165,
+    1175,
+    1180,
+    1185,
+    1190,
+    1195,
+    1200,
+    1205,
+    1210,
+    1215,
+    1210,
+    1220,
+    1215,
+    1225,
+    1230,
+    1235,
+    1240,
+    1245,
+    1250,
+    1245,
+    1255,
+    1260,
+    1255,
+    1265,
+    1260,
+    1270,
+    1265,
+    1275,
+    1280,
+    1275,
+    1285,
+    1290,
+    1285,
+    1295,
+    1300,
+    1295,
+    1285,
+    1305,
+    1310,
+    1305,
+    1295,
+    1315,
+    1320,
+    1315,
+    1325,
+    1320,
+    1330,
+    1335,
+    1330,
+    1340,
+    1345,
+    1350,
+    1345,
+    1355,
+    1350,
+    1340,
+    1360,
+    1365,
+    1370,
+    1365,
+    1355,
+    1335,
+    1295,
+    1375,
+    1370,
+    1360,
+    1340,
+    1380,
+    1385,
+    1380,
+    1370,
+    1390,
+    1395,
+    1400,
+    1395,
+    1405,
+    1400,
+    1410,
+    1405,
+    1415,
+    1410,
+    1420,
+    1415,
+    1425,
+    1420,
+    1410,
+    1430,
+    1435,
+    1430,
+    1420,
+    1440,
+    1445,
+    1450,
+    1445,
+    1435,
+    1415,
+    1375,
+    1455,
+    1460,
+    1465,
+    1470,
+    1475,
+    1470,
+    1460,
+    1480,
+    1485,
+    1480,
+    1490,
+    1485,
+    1475,
+    1455,
+    1415,
+    1495,
+    1500,
+    1505,
+    1510,
+    1515,
+    1510,
+    1520,
+    1515,
+    1505,
+    1485,
+    1525,
+    1530,
+    1525,
+    1535,
+    1530,
+    1540,
+    1535,
+    1525,
+    1505,
+    1545,
+    1540,
+    1530,
+    1550,
+    1555,
+    1550,
+    1560,
+    1555,
+    1545,
+    1565,
+    1560,
+    1570,
+    1575,
+    1570,
+    1580,
+    1575,
+    1565,
+    1585,
+    1580,
+    1570,
+    1550,
+    1510,
+    1430,
+    1590,
+    1585,
+    1575,
+    1555,
+    1595,
+    1600,
+    1595,
+    1605,
+    1600,
+    1610,
+    1605,
+    1615,
+    1610,
+    1620,
+    1615,
+    1605,
+    1585,
+    1545,
+    1625,
+    1630,
+    1625,
+    1615,
+    1595,
+    1555,
+    1475,
+    1635,
+    1630,
+    1620,
+    1600,
+    1640,
+    1635,
+    1645,
+    1650,
+    1645,
+    1635,
+    1655,
+    1660,
+    1655,
+    1665,
+    1660,
+    1670,
+    1665,
+    1655,
+    1675,
+    1680,
+    1675,
+    1665,
+    1645,
+    1605,
+    1525,
+    1365,
+    1685,
+    1680,
+    1670,
+    1650,
+    1610,
+    1690,
+    1695,
+    1700,
+    1705,
+    1710,
+    1705,
+    1695,
+    1715,
+    1710,
+    1720,
+    1715,
+    1705,
+    1725,
+    1720,
+    1730,
+    1735,
+    1740,
+    1735,
+    1725,
+    1705,
+    1745,
+    1750,
+    1745,
+    1735,
+    1755,
+    1760,
+    1755,
+    1765,
+    1770,
+    1775,
+    1770,
+    1760,
+    1740,
+    1780,
+    1775,
+    1765,
+    1785,
+    1790,
+    1795,
+    1790,
+    1780,
+    1760,
+    1720,
+    1800,
+    1805,
+    1800,
+    1810,
+    1805,
+    1795,
+    1775,
+    1815,
+    1810,
+    1800,
+    1820,
+    1815,
+    1825,
+    1820,
+    1810,
+    1790,
+    1830,
+    1835,
+    1840,
+    1835,
+    1825,
+    1845,
+    1840,
+    1850,
+    1845,
+    1855,
+    1860,
+    1855,
+    1865,
+    1870,
+    1865,
+    1855,
+    1875,
+    1880,
+    1885,
+    1890,
+    1885,
+    1895,
+    1890,
+    1900,
+    1895,
+    1885,
+    1905,
+    1900,
+    1890,
+    1870,
+    1910,
+    1905,
+    1895,
+    1875,
+    1835,
+    1915,
+    1920,
+    1925,
+    1930,
+    1935,
+    1940,
+    1935,
+    1945,
+    1950,
+    1955,
+    1960,
+    1965,
+    1960,
+    1970,
+    1975,
+    1970,
+    1960,
+    1940,
+    1980,
+    1975,
+    1965,
+    1985,
+    1980,
+    1990,
+    1995,
+    2000
+  ]
+}
